@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vietnguyennh-netizen&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vietnguyennh-netizen&layout=8&theme=tokyonight" alt="Top Langs" />
 </p>
 
 
