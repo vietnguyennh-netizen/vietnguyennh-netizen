@@ -1,3 +1,9 @@
+<h1 align="center">Hi 👋, I'm Nguyen Quoc Viet</h1>
+<h3 align="center">Computer Science / Software Engineering Student</h3>
+
+
+
+
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
