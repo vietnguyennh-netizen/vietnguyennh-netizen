@@ -12,7 +12,7 @@
 ### 🚀 About Me
 - 🔭 I’m currently working on academic projects, backend development, and data processing.
 - 🌱 I’m currently learning System Design, Scalable Architecture, and Practical AI Applications.
-- 💬 Ask me about **C++, Python, Java, SQL**.
+- 💻 Coding with passion, engineering with precision.
 - 📫 How to reach me: `quocviet.nguyen7906@gmail.com`
 
 ---
