@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Welcome%20to%20my%20Profile!&fontSize=40&animation=fadeIn" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Nguyen Quoc Viet</h1>
 <p align="center">
   <em>Passionate developer & student interested in AI/ML and Data Engineer.</em>
@@ -24,5 +28,7 @@
 ---
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Welcome%20to%20my%20Profile!&fontSize=40&animation=fadeIn" />
+  <img height="160" src="https://streak-stats.demolab.com?user=vietnguyennh-netizen&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vietnguyennh-netizen&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vietnguyennh-netizen&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
