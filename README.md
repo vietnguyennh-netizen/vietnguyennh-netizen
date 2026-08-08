@@ -4,15 +4,15 @@
 
 <h1 align="center">Hi 👋, I'm Nguyen Quoc Viet</h1>
 <p align="center">
-  <em>Passionate developer & student interested in Data Engineer | Building scalable data pipelines.</em>
+  <em>Passionate developer & student interested in Software Engineering & Data-Driven Systems.</em>
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on academic projects & software development.
-- 🌱 I’m currently learning algorithms, system design, and AI/ML applications.
-- 💬 Ask me about **C++, Python, Java**.
+- 🔭 I’m currently working on academic projects, backend development, and data processing.
+- 🌱 I’m currently learning System Design, Scalable Architecture, and Practical AI Applications.
+- 💬 Ask me about **C++, Python, Java, SQL**.
 - 📫 How to reach me: `quocviet.nguyen7906@gmail.com`
 
 ---
