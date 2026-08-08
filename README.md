@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Nguyen Quoc Viet</h1>
 <p align="center">
-  <em>Passionate developer & student interested in AI/ML and Data Engineer.</em>
+  <em>Passionate developer & student interested in Data Engineer | Python & SQL | Building scalable data pipelines.</em>
 </p>
 
 ---
