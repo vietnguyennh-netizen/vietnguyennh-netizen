@@ -24,6 +24,5 @@
 ---
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vietnguyennh-netizen&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vietnguyennh-netizen&layout=compact&theme=tokyonight" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Welcome%20to%20my%20Profile!&fontSize=40&animation=fadeIn" />
 </p>
