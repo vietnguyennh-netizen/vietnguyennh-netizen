@@ -1,6 +1,3 @@
-<p align="center" style="margin-bottom: -10px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Welcome%20to%20my%20Profile!&fontSize=40&animation=fadeIn" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Nguyen Quoc Viet</h1>
 <p align="center">
